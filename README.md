@@ -4,7 +4,7 @@ This repository showcases my first exploratory data analysis (EDA) project on a 
 link : https://www.kaggle.com/datasets/surajjha101/cuisine-rating.
 
 Overview:
- - This Jupyter Notebook, titled cuisine_rating_EDA_final.ipynb, conducts an exploratory data analysis (EDA) on a cuisine rating dataset. The primary objective is to analyze various factors influencing food ratings and to visualize the relationships between different variables.
+ - This Jupyter Notebook, titled cuisine_rating_EDA_final.ipynb, conducts an Exploratory Data Analysis (EDA) on a cuisine rating dataset. The primary objective is to analyze various factors influencing food ratings and to visualize the relationships between different variables.
 Table of Contents
  - Introduction
  - Data Import
